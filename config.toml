@@ -12,7 +12,7 @@ paginate=8 # articles per page
 [params]
 	mode="light" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "This site only uses [984kB](https://github.com/athul/archie)"
+	subtitle = "This website is designed so as to reduce its digital industry ecological footprint. This static site sits at around 820,685kB "
 
 # Social Tags
 
