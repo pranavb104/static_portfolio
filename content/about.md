@@ -6,7 +6,7 @@ aliases = ["about-us","about-hugo","contact"]
 author = "Hugo Authors"
 +++
 
-{{< figure src= "/archie/about.jpg" title="" class="contentImgBig" >}}
+{{< figure src= "/about.jpg" title="" class="contentImgBig" >}}
 
 I'm Pranav , an interdisciplanary designer/engineer/technologist, currently residing in Shanghai. 
 
