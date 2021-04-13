@@ -25,6 +25,13 @@ body{
   color: #fff;
 }
 
+.site-description p {
+  font-family: 'Fira Sans', sans-serif;
+  line-height: 1.5;
+  font-size: 12px;
+  max-width: 300px;
+}
+
 p {
   font-family: 'Fira Sans', sans-serif;
   line-height: 1.5;
