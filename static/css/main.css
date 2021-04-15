@@ -88,14 +88,12 @@ ul > li::before {
 
 .contentImg{
     max-width: 100%;
-    max-height: 500px;
     display: block;
 }
 
 .contentImgBig{
     margin-left: -40px;
     max-width: 100%;
-    max-height: 500px;
     display: block;
 }
 
