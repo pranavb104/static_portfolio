@@ -20,8 +20,8 @@ I initially began researching and playing around with the whitetable, to only re
 ## Object Tracking
 The experiments eventually led to building a device which could recognize objects on a surface and dynamically project the content. To see if this is feasible , I tried using ML Vision libraries to segment the body from the table surface and then eventually went for a depth-based tracking system.
 
-{{< figure src= "/whitetable/wt_3.png" title="" class="contentImg" >}}
-{{< figure src= "/whitetable/wt_4.png" title="Depth Based Tracking" class="contentImg" >}}
+{{< figure src= "/whitetable/wt_3.png" title="" class="contentImgBig" >}}
+{{< figure src= "/whitetable/wt_4.png" title="Depth Based Tracking" class="contentImgBig" >}}
 
 ## Proof of Concept 
 A video demonstrating the look and functioning of the prototype.
