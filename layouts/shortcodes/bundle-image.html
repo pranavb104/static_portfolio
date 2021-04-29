@@ -1,0 +1,24 @@
+{{ $altText := .Get "alt"}}
+{{ with $.Page.Resources.GetMatch (.Get "name") }}
+  <img srcset='
+        {{ (.Resize "320x").RelPermalink }} 320w,
+        {{ (.Resize "400x").RelPermalink }} 400w,     
+        {{ .RelPermalink }} 1x' alt='{{$altText}}' />
+{{ else }}
+could not find image
+{{ end }}
+{{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
+    <figcaption>
+        {{ with (.Get "title") -}}
+            <h4>{{ . }}</h4>
+        {{- end -}}
+        {{- if or (.Get "caption") (.Get "attr") -}}<p>
+            {{- .Get "caption" | markdownify -}}
+            {{- with .Get "attrlink" }}
+                <a href="{{ . }}">
+            {{- end -}}
+            {{- .Get "attr" | markdownify -}}
+            {{- if .Get "attrlink" }}</a>{{ end }}</p>
+        {{- end }}
+    </figcaption>
+{{- end }}
