@@ -12,7 +12,7 @@ paginate=8 # articles per page
 [params]
 	mode="light" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "This website is designed so as to reduce its digital industry ecological footprint. Each page sits at an avergage of 865kb. "
+	subtitle = "This website is designed so as to reduce its digital industry ecological footprint. Each page sits at an average of 865kb. "
 
 # Social Tags
 
