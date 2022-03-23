@@ -2,7 +2,7 @@
 title: "MRPi"
 summary: Interactive,Prototype
 date: 2020-06-29
-image: mrpi.png
+image: mrpi_head.png
 description: " A Mixed-Reality projection device using just the small and powerful RPI Zero2W"
 ---
 
