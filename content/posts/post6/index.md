@@ -1,7 +1,7 @@
 ---
 title: "N-Mask"
 summary: Personal,Fictional Concept
-date: 2020-03-23
+date: 2015-03-23
 image: mask_head.jpg
 description: "A quick project during COVID showcasing a fictional/dystopian mask that detects negative ions (in short range) in polluted environments."
 ---
