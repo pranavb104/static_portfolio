@@ -9,7 +9,9 @@ description: " A Mixed-Reality projection device using just the small and powerf
 I had this idea of building a portable smart projector which resembles a flashlight based on one of my previous projects.This device could possibly be used for retail settings, giving people a unique way to interact with static content as opposed to viewing it from screens which can be bulky and expensive to setup. This experience could also make way for interactive games and other kind of explorative projects. 
 
 ## Software 
-It is built inside openFrameworks (C++ framework). It took a bit of time to make and link the open-source libraries together (big shot-out to (jvcleave)[https://github.com/jvcleave/ofxOMXPlayer] for wrapping OMX into OF). It uses the RaspberryPi camera to detect markers (also known as fiducial markers) and play content (videos/gifs/images). The markers themselves can be quite small if the camera is fitted with the right lens and is positioned well with respect to the projector. Markers are a good start to have a dynamic animated projection since their design can be altered to represent a word/phrase making it unique to the person interacting with it. Having him/her interact with any static content makes the experience immersive and present information in a cool way.
+It is built inside openFrameworks (C++ framework). It took a bit of time to make and link the open-source libraries together (big shot-out to [jvcleave](https://github.com/jvcleave/ofxOMXPlayer) for wrapping OMX into OF). It uses the RaspberryPi camera to detect markers (also known as fiducial markers) and play content (videos/gifs/images). The markers themselves can be quite small if the camera is fitted with the right lens and is positioned well with respect to the projector. Markers are a good start to have a dynamic animated projection since their design can be altered to represent a word/phrase making it unique to the person interacting with it. Having him/her interact with any static content makes the experience immersive and present information in a cool way.
+
+Considering the libraries only work for a certain version of PI and OF, I've tried to put up detailed instructions of using this [here](https://github.com/pranavb104/Mixed-Reality-RPi).
 
 {{<bundle-image title="Alpha Prototype" name="mrp1.jpg" >}}
 
@@ -24,9 +26,9 @@ The projector can detect fiducial markers within a 1-1.5m range only in a relati
 {{<bundle-image title="Beta Prototype" name="mrp2.jpg" >}}
 
 ## Revisions for next Iteration 
-New RPI Zero 2W in a much smaller package compared to its predecessor combined with a DLP projector which sits as a hat on the PI zero. I made a custom PCB for the hat which would make this a tiny package altogether, also giving enough room to fit in a LIPO battery and making it a portable smart flashlight device 
+New RPI Zero 2W in a much smaller package compared to its predecessor combined with a DLP projector which sits as a hat on the PI zero. I made a custom PCB for the hat which would make this a tiny package altogether, also giving enough room to fit in a LIPO battery and making it a portable smart flashlight device. This hat relies much on the project done by [MichMakes](https://github.com/MickMake/Project-PiProjector). Much credit to his work :D
 
 {{<bundle-image title="Custom PCB" name="mrp3.jpg" >}}
 
-Will post more pictures soon :D
+As a next step, I will upload the files for the PCB Hat and all the required components to replicate it. 
 
