@@ -1,11 +1,12 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Creations"
+title = "::𓀇::" 
 copyright = "© Pranav B"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+enableEmoji=true
 
 paginate=11 # articles per page
 
