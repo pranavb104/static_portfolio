@@ -6,7 +6,6 @@ copyright = "© Pranav B"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-enableEmoji=true
 
 paginate=11 # articles per page
 
