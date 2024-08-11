@@ -8,13 +8,11 @@ author = "Hugo Authors"
 
 {{<bundle-image name="about.png" >}}
 
-I'm Pranav , an interdisciplanary designer/engineer/technologist, currently residing in Shanghai. 
+I'm Pranav , a designer/electronics engineer, currently residing in the UK. 
 
-I have previously worked in design agencies in China and the Netherlands developing installations and prototypes for new product development. 
+I have previously worked in design consultancies and studios in Shanghai and the Netherlands developing interactive artefacts and prototypes for new product development. I'm currently based in the UK and open to new projects focused on sustainability and participatory design.
 
-My personal work is related to critical reflections of the technologies and infrastructures that shape our interactions with environmental systems and our perceptions of it. Sometimes digital, yet mainly physical eccentric objects, giving the public a fun/serious questioning narrative about the problems and nuances in our natural and digital living environment.
-
-Feel free to contact and talk about projects.
+This website has a collection of my old projects, both personal and career work. Feel free to [contact](mailto:pranavb104@gmail.com) to chat about my current/past work (this website is not really up to date...)
 
 [Resume](https://drive.google.com/file/d/1Z52Qb7CzMwqFwLZoZz4hitn65_bkNRHg/view?usp=sharing)
 

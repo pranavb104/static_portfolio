@@ -1,7 +1,7 @@
 ---
 title: "WWW-Maps"
 date: 2021-02-10
-summary: Critical Design, Personal
+summary: Personal, Fun
 image: www.jpg
 description: "A project visualizing traceroute in nodejs using Geolocation API, symbolizing travel world maps (but for the internet). "
 ---

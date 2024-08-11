@@ -1,7 +1,7 @@
 ---
 title: "Plant Entrainment Toolkit"
 date: 2021-03-18
-summary: Personal,Design Provocation
+summary: Personal, Provocation
 image: plant_head.jpg
 description: "A case against urban farming; an attempt to show how we can design with nature’s long-term evolution in mind"
 ---
