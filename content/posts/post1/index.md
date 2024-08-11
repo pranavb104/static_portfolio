@@ -3,7 +3,7 @@ title: "Plant Entrainment Toolkit"
 date: 2021-03-18
 summary: Personal, Provocation
 image: plant_head.jpg
-description: "A case against urban farming; an attempt to show how we can design with nature’s long-term evolution in mind"
+description: "A case against indoor farming; an attempt to show how we can design with nature’s long-term evolution in mind"
 ---
 
 The increase in urban farming and growing indoors has resulted in a dissonance in what plants perceive of their natural surrounding environment. This installation is an attempt to show how we can design with nature’s long-term evolution in mind
