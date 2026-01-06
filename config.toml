@@ -1,16 +1,16 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "::_::" 
+title = "0_0" 
 copyright = "© Pranav B"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate=11 # articles per page
+pagination.pagerSize=11 # articles per page
 
 [params]
-	mode="light" # color-mode → light,dark or auto
+	mode="auto" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "This website is designed so as to reduce its digital industry ecological footprint. Each page sits at an average of 963kb. "
 
@@ -35,14 +35,13 @@ url = "https://www.linkedin.com/in/pranavb104/"
 # Main menu Items
 
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-
-[[menu.main]]
 name = "About"
 url = "/about"
+weight = 1
+
+[[menu.main]]
+name = "Work"
+url = "/work"
 weight = 2
 
 [[menu.main]]

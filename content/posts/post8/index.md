@@ -1,6 +1,6 @@
 ---
 title: "Institue of Applied Motions"
-date: 2017-04-31
+date: 2017-04-06
 summary: Workshop, Creative Tech
 image: workshop.png
 description: "A workshop to express creative technology in body movements"

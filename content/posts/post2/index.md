@@ -1,5 +1,5 @@
 ---
-title: "WWW-Maps"
+title: "www-maps"
 date: 2021-02-10
 summary: Personal, Fun
 image: www.jpg
