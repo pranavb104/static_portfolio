@@ -10,6 +10,8 @@ author = "Pranav"
 
 1. [Building a phygital retail experience for Maybach (China)](https://drive.google.com/file/d/1U_bslosQ8UG6kvTMyE1xngv9o3_2OIIh/view?usp=share_link)
 
-2. Designing strategy for in-car interior experiences (JLR UK)
+2. [Designing strategy for in-car interior experiences](https://miro.com/app/board/uXjVGZIVUFQ=/?share_link_id=856184180424) (JLR UK)
 
-3. 0-1 MVP for White Table Interactive
+3. [0-1 MVP for White Table Interactive](https://www.pranavbe.net/posts/post7/)
+
+4. [Open Source Plastic Scanner Project](https://plasticscanner.com/about/)
