@@ -12,7 +12,7 @@ author = "Hugo Authors"
 
 This website is a collection of my old projects, both hobby and some professional work.
 
-I spent my early career working primarily in Shanghai, China developing interactive experiences and digital products for the fast-paced Chinese market. Working in small agencies / startups, being invloved in different stages of product development taught me a lot about building fast, testing products with users early and collaborating with people from diverse backgrounds.
+I spent my early career working primarily in Shanghai, China developing interactive experiences and 0->1 product prototypes for the fast-paced Chinese market. Working in small agencies / startups, being invloved in different stages of product development taught me a lot about building fast, testing products with users early and collaborating with people from diverse backgrounds. 
 
 Currently in the UK, working on Designing Future Interior Experiences for [Jaguar LandRover (JLR)](https://www.jlr.com).
 
