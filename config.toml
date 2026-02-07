@@ -12,7 +12,7 @@ pagination.pagerSize=11 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "This website is designed so as to reduce its digital industry ecological footprint. Each page sits at an average of 1254kb. "
+	subtitle = "This website is a collection of my projects, mostly hobby and some professional work. Each page sits at an avg. of ~1.3mb"
 
 # Social Tags
 
