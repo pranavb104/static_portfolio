@@ -31,7 +31,7 @@
 html {
   color: #232333;
   font-family: 'Roboto Mono', monospace;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.6em;
 }
 body{
@@ -132,7 +132,7 @@ img {
 
 
 figcaption h4 {
-  font-size: 1rem;
+  font-size: 0.875rem;
   margin: 0;
   margin-bottom: 1em;
 }
