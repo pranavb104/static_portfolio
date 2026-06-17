@@ -8,11 +8,14 @@ author = "Pranav"
 
 ## Selected List of Projects
 
-1. [Building a phygital retail experience for Maybach (China)](https://drive.google.com/file/d/1U_bslosQ8UG6kvTMyE1xngv9o3_2OIIh/view?usp=share_link)
-_Working in a small design agency, we built an interactive experience and deployed it at a couple of dealerships for Mercedes Maybach. Here my role was to work together with technical artists, designers & PO's to define the customer experience & technology stack and eventually build the HW, source it and write code to bring it all together._
+1. [Building a phygital retail experience for Mercedes (China)](https://drive.google.com/file/d/1U_bslosQ8UG6kvTMyE1xngv9o3_2OIIh/view?usp=share_link)
+_Working in a small design agency, we built an interactive experience and deployed it at a couple of dealerships for Mercedes. Here my role was to work together with technical artists, designers & PO's to define the customer experience & technology stack and eventually build the HW, source it and write code to bring it all together._
 
-2. [Designing the interior cabin experience for L3+ autonomy](https://drive.google.com/file/d/1iSXqSs-_VT3xYbDFRGPxgeD0T0pl3LS1/view?usp=sharing)
-_Helped define and build what a L3+ autonomous cabin would look like in JLR vehicles and validating different scenarios and cabin layouts through multiple user trials. P.S. You probably need to download the link to view it._
+2. [Exploring atmospheres in vehicle cabin interiors](https://docs.google.com/presentation/d/1sp_-z6omyeRLhzVaCW33P81YxLlwYyEZ/edit?usp=share_link&ouid=117977952381072317709&rtpof=true&sd=true)
+_A research project aiming to capture what different atmospheres in a vehicle cabin should look and feel like. We were tasked to go a bit deeper for the visual senses and find a structured way for people to select their personal best color based on science. P.S. This project link cannot be viewed publicly._
+
+3. [Designing the interior cabin experience for L3+ autonomy](https://drive.google.com/file/d/1b_VmI-mlyA9nzTr3NDfuCvBLprUiW9RJ/view?usp=share_link)
+_Helped define and build what a L3+ autonomous cabin would look like in JLR vehicles and validating different scenarios and cabin layouts through multiple user trials._
 
 4. [A workshop for students to explore movement with interactive tech](https://www.pranavbe.net/posts/post8/).
 _We were invited to Denmark to organize an explorative workshop to teach students to interface the body with the computer._ 
