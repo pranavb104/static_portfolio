@@ -17,15 +17,19 @@ On the other hand, the product really helped users tell stories in a non-linear 
 
 {{<bundle-image title="market days" name="wt_2.jpg" >}}
 
-There were essentially two parts to this project; one was the ergonomics behind the product and the other was the underlying interaction and how to augment it. I focused more on the interaction part of the project. 
+There were essentially two parts to this project; one was the ergonomics behind the product and the other was the underlying interaction and how to augment it. I focused on the interaction part of the project. I was working with another industrial designer on this project and at the same time also trying to solve the assembly issues involved with WT2.0 and how it could be made into a portable solution. 
 
-I took a slightly different approach to understand the _magic_ behing projection mapping, I looked at the different kinds of content and objects used while presenting on the white table. The following questions came about ->
+To understand the _magic_ behind projection mapping, I looked at the different kinds of content and objects used while presenting on the white table. The following questions came about ->
 1. What if projectors could give physical objects a digital dimension?
 2. What if individual objects/artifacts could add depth to storytelling?
 
 {{<bundle-image  name="wt_5.png" >}}
 
-I then ran a series of experiments to understand and explore the different affordances of interacting with projected surfaces. While the original WT2.0 used different objects to tell a story, a white _empty_ object brought a lot of possibilities for interacting with projected surfaces using _rotation_ and _tilting_ to trigger an animation or sequence while giving the object a different form through projected content. These objects could also be used to add depth to storytelling and help zoom in-out of a presentation.
+I then ran a series of experiments to understand and explore the different affordances of interacting with projected surfaces. While the original WT2.0 used different objects to tell a story, a white _empty_ object brought a lot of possibilities for interacting with projected surfaces using _rotation_ and _tilting_ to trigger an animation or sequence while giving the object a different form through projected content. These objects could also be used to add depth to storytelling and help zoom in-out of a presentation. 
+
+{{<bundle-image title="Interaction Experiments" name="wt_7.png" >}}
+
+I made different prototypes using distance sensors and accelerometers to see how the interactions feels for the above movements, but the best way to test it quickly with users was to use projection mapping and control the different scenes with a custom script written using openframeworks. 
 
 {{<video src="wt_v.mp4" >}}
 {{<bundle-image title="Interaction Experiments" name="wt_2.png" >}}
@@ -35,6 +39,9 @@ These experiments eventually led to building a device which could recognize obje
 
 {{<bundle-image title="ML Object Tracking" name="wt_3.png" >}}
 {{<bundle-image title="Depth Based Tracking" name="wt_4.png" >}}
+
+## Resulting Interaction Framework
+{{<bundle-image title="Framework" name="wt_6.png" >}}
 
 ## Proof of Concept 
 A video demonstrating the look and functioning of the prototype.
